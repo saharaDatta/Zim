@@ -519,6 +519,11 @@ ul {
 }
 .logo {
   margin-top: 33px;
+  
+}
+
+.round{
+	border-radius: 50%;
 }
 .nav-bar .donate-btn .btn {
   margin-top: 40px !important;
